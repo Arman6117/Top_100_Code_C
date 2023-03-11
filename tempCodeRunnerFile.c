@@ -1,2 +1,2 @@
- printf("%d\n", sqr);
-      printf("%d\n", rem); 
+);
+//   printf("B %d\n", sumB);
